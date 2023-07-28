@@ -1,4 +1,4 @@
-
+package iniciante;
 /*
  QUESTÃO
  Leia 2 valores de ponto flutuante de dupla precisão A e B, que 

@@ -1,3 +1,5 @@
+package iniciante;
+
 import java.util.Scanner;
 
 public class BEE_1003 {
